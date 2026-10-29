@@ -49,3 +49,150 @@ Passions:
   - Integrating Generative AI into deterministic analytics engines
   - Building AI-driven risk modeling & payment safety systems
 Current Target: Data Analyst / Business Intelligence / Applied AI Internships & Roles
+```
+
+---
+
+## 🛠️ Tech Stack & 3D Tooling
+
+<div align="center">
+
+  <!-- 3D Isometric Skill Icon Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,sqlite,ts,react,html,css,tailwind,git,github,docker,postman&perline=7" alt="Tech Stack Icons" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Data & BI Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
+| **AI / Machine Learning** | ![XGBoost](https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logo=xgboost&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Languages & Systems** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+
+</div>
+
+<br/>
+
+<!-- Glowing Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
+
+<br/>
+
+## 🚀 Featured Showcase Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛡️ <a href="https://github.com/piyushT3003/Guardian-Payment-Safety">Guardian — Payment Safety</a></h3>
+        <p><strong>Razorpay AI Buildathon — Open Track</strong></p>
+      </div>
+      <p>AI-powered payment behavior safety layer protecting elderly and vulnerable customers against scam sequences using behavioral anomaly detection, explainable risk scoring, and human-in-the-loop review.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Anomaly_Detection-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Risk_Scoring-4CAF50?style=flat-square" />
+      </p>
+      <a href="https://github.com/piyushT3003/Guardian-Payment-Safety"><b>Explore Repository &rarr;</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📊 <a href="https://github.com/piyushT3003/Bizlens">BizLens — Enterprise Intelligence</a></h3>
+        <p><strong>Deterministic BI + GenAI Narratives</strong></p>
+      </div>
+      <p>Enterprise decision-support platform designed on the core principle: <em>Analytics calculates, GenAI explains</em>. Fast aggregations via DuckDB over Parquet files, combined with strict numerical guardrails for Gemini AI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <a href="https://github.com/piyushT3003/Bizlens"><b>Explore Repository &rarr;</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🌱 <a href="https://github.com/piyushT3003/Carbon_Emisson">Carbon Emissions Analytics</a></h3>
+        <p><strong>Sustainability & ESG Dashboard</strong></p>
+      </div>
+      <p>Interactive environmental impact dashboard tracking enterprise carbon intensity, emission patterns across departments, and executive-ready sustainability metrics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=flat-square" />
+        <img src="https://img.shields.io/badge/ESG_Reporting-2E7D32?style=flat-square" />
+      </p>
+      <a href="https://github.com/piyushT3003/Carbon_Emisson"><b>Explore Repository &rarr;</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🧠 <a href="https://github.com/piyushT3003/Duomind">DuoMind — AI Collaboration</a></h3>
+        <p><strong>Multi-Agent Reasoning Workspace</strong></p>
+      </div>
+      <p>Collaborative multi-model platform exploring consensus, divergence, and structured reasoning between distinct AI models for complex analytical problem-solving.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Multi--Agent-9C27B0?style=flat-square" />
+        <img src="https://img.shields.io/badge/GenAI-FF4081?style=flat-square" />
+      </p>
+      <a href="https://github.com/piyushT3003/Duomind"><b>Explore Repository &rarr;</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Glowing Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
+
+<br/>
+
+## 📈 Real-Time GitHub Analytics
+
+<div align="center">
+
+  <!-- Animated Streak Stats Widget -->
+  <img src="https://streak-stats.demolab.com?user=piyushT3003&theme=tokyonight&hide_border=false&border_color=38bdf8&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" width="98%" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <!-- Animated Stats & Top Languages Grid -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=piyushT3003&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=f59e0b&count_private=true" width="49%" alt="GitHub Overall Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=piyushT3003&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="49%" alt="Top Languages Used" />
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+  <a href="https://magical-rolypoly-e7ee3a.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/piyush-tandale-653582128/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:piyushtandale1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+
+  <br/><br/>
+
+  <sub>⚡ Open for Data Analytics, Business Intelligence & Generative AI Internships & Roles ⚡</sub>
+
+  <br/><br/>
+
+  <!-- 3D Waving Animated Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,19,25,30&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
