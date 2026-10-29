@@ -195,7 +195,7 @@ Current Target: Data Analyst / Business Intelligence / Applied AI Internships & 
   <br/><br/>
 
   <!-- Animated Stats & Top Languages Grid -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=piyushT3003&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=f59e0b&count_private=true" width="49%" alt="GitHub Overall Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=piyushT3003&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=f59e0b&include_all_commits=true&count_private=true" width="49%" alt="GitHub Overall Stats" />
   &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=piyushT3003&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="49%" alt="Top Languages Used" />
 
