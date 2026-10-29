@@ -1,73 +1,51 @@
-# Hi, I'm Piyush Tandale 👋
+<!-- ======================================================== -->
+<!--               PIYUSH TANDALE GITHUB PROFILE              -->
+<!-- ======================================================== -->
 
-### Data Analytics | Business Intelligence | Generative AI
+<div align="center">
 
-I'm a BCA student specializing in Artificial Intelligence and Machine Learning, graduating in May 2027. I'm interested in turning data into actionable business insights and building practical AI-powered applications that solve real-world problems.
+  <!-- 3D Waving Animated Hero Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,19,25,30&height=230&section=header&text=Piyush%20Tandale&fontSize=52&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Data%20Analytics%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Generative%20AI&descAlignY=60&descAlign=50" width="100%" alt="Piyush Tandale - Header Banner" />
 
-I enjoy working at the intersection of **Data Analytics, Business Intelligence, and Generative AI**, with a focus on creating useful, insight-driven solutions.
+  <!-- Animated Multi-Line Typing Effect -->
+  <a href="https://github.com/piyushT3003">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Data+Analytics+%26+Business+Intelligence;Generative+AI+%26+Guarded+Decision+Engines;Deterministic+DuckDB+%2B+SQL+Analytics;Interactive+Power+BI+%26+Tableau+Dashboards;Building+AI-Powered+FinTech+%26+Enterprise+Solutions" alt="Animated Typing Subtitle" />
+  </a>
 
-## 🚀 Current Focus
+  <br/><br/>
 
-- 📊 Data Analytics and Business Intelligence
-- 📈 SQL, Power BI, data visualization, and business reporting
-- 🤖 Generative AI applications and AI-powered analytics
-- 💡 Building practical projects that combine data, business insights, and AI
+  <!-- 3D Action Badges: Portfolio, LinkedIn, Email, Profile Views -->
+  <a href="https://magical-rolypoly-e7ee3a.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/piyush-tandale-653582128/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:piyushtandale1@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=piyushT3003&style=for-the-badge&color=0284c7" alt="Profile Views" />
 
-## 🛠️ Technologies & Tools
+</div>
 
-**Languages:** Python, SQL, JavaScript (project-dependent)
+<br/>
 
-**Analytics & Visualization:** Power BI, Excel, Tableau, Power Query
+<!-- Glowing Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
 
-**Data & Development:** PostgreSQL, FastAPI, React
+<br/>
 
-**AI/ML:** Machine Learning fundamentals, XGBoost, Generative AI integrations
+## 💫 About Me
 
-**Tools & Platforms:** Git, GitHub, Postman, Netlify
-
-## 🌟 Featured Projects
-
-### 1. BizLens — AI-Powered Business Intelligence
-An AI-focused business analytics project designed to help users explore business data, generate insights, and support data-driven decision-making.
-
-**Focus:** Business Intelligence, Data Analytics, Generative AI, interactive dashboards.
-
-### 2. Guardian — Payment Safety
-A payment-safety project focused on identifying potentially fraudulent transactions and presenting risk-related information through a dashboard.
-
-**Focus:** Fraud detection, risk analysis, Python, data visualization.
-
-🔗 [View Repository](https://github.com/piyushT3003/guardian-payment-safety)
-
-### 3. AquaSense — Flood Risk Prediction
-An AI-driven flood-risk analysis project focused on identifying flood-prone areas and supporting risk awareness through predictive analytics and mapping.
-
-**Focus:** Machine Learning, XGBoost, PostgreSQL/PostGIS, FastAPI, React.
-
-## 🌐 Portfolio
-
-Explore my projects and work:
-
-🔗 [Visit My Portfolio](https://6ab3ea22394fbf3db8b88e67--dreamy-seahorse-c5a269.netlify.app/)
-
-## 🎯 Career Interests
-
-I'm interested in entry-level opportunities and internships in:
-
-- Data Analytics
-- Business Analytics
-- Business Intelligence
-- Power BI Development
-- Generative AI-Powered Analytics
-
-I'm continuously improving my technical skills, building projects, and learning how to turn business problems into practical data-driven solutions.
-
-## 🤝 Let's Connect
-
-- **GitHub:** [@piyushT3003](https://github.com/piyushT3003)
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add your professional email address here
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.
+```yaml
+Name: Piyush Tandale
+Education: BCA (Specialization in Artificial Intelligence & Machine Learning), Class of 2027
+Core Philosophy: "Analytics calculates. GenAI explains. Never hallucinate data."
+Passions:
+  - Designing end-to-end Business Intelligence pipelines (SQL -> DuckDB -> Power BI)
+  - Integrating Generative AI into deterministic analytics engines
+  - Building AI-driven risk modeling & payment safety systems
+Current Target: Data Analyst / Business Intelligence / Applied AI Internships & Roles
