@@ -189,15 +189,25 @@ Current Target: Data Analyst / Business Intelligence / Applied AI Internships & 
 
 <div align="center">
 
-  <!-- Animated Streak Stats Widget -->
-  <img src="https://streak-stats.demolab.com?user=piyushT3003&theme=tokyonight&hide_border=false&border_color=38bdf8&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" width="98%" alt="GitHub Streak Stats" />
+  <!-- Real-Time Streak Flame Tracker -->
+  <img src="https://streak-stats.demolab.com?user=piyushT3003&theme=tokyonight&hide_border=false&border_color=38bdf8&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" width="98%" alt="GitHub Live Streak Tracker" />
 
   <br/><br/>
 
-  <!-- Animated Stats & Top Languages Grid -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=piyushT3003&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=f59e0b&include_all_commits=true&count_private=true" width="49%" alt="GitHub Overall Stats" />
+  <!-- Personalized Contribution Activity & History Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushT3003&theme=tokyonight" width="98%" alt="Piyush Tandale Live Activity & Contributions" />
+
+  <br/><br/>
+
+  <!-- Top Languages by Repo & by Commit Breakdown -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushT3003&theme=tokyonight" width="48%" alt="Top Languages by Repo" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=piyushT3003&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="49%" alt="Top Languages Used" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushT3003&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
+
+  <br/><br/>
+
+  <!-- Overall All-Time GitHub Stats -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=piyushT3003&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=f59e0b&include_all_commits=true&count_private=true" width="98%" alt="Piyush Tandale Overall GitHub Metrics" />
 
 </div>
 
